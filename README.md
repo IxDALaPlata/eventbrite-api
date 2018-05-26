@@ -1,8 +1,12 @@
-# eventbrite-api
+# ux-eventbrite-api
 
-Microservicio que devuelve un JSON con los próximos eventos de eventbrite indicados por configuración
+Microservicio que devuelve un JSON con los próximos eventos de eventbrite indicados por configuración, actualmente utiliza los siguientes organizadores de Eventbrite:
+* lista de IDs de organizadores (separados por coma) para buscar sus eventos *
+- 15273653367 = IxDALaPlata
+- 10792884013 = IxDABA
 
-[eventbrite-api](https://eventbrite-api.now.sh/)
+
+Este en un Fork del proyecto [eventbrite-api](https://github.com/meetupjs-ar/eventbrite-api) de la gente de ## MeetupJS
 
 ## Como funciona
 
